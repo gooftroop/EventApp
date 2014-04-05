@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EventApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY CONTENT</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_feed">Feed</string>
+    <string name="generic_error">DUMMY CONTENT</string>
+    <string name="generic_server_down">DUMMY CONTENT</string>
+    <string name="no_internet">DUMMY CONTENT</string>
+    <string name="page_not_found">DUMMY CONTENT</string>
+    <string name="failed_to_process_request">DUMMY CONTENT</string>
+    <string name="title_activity_event_map">Events</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_dream_text_key">pref_dream_text</string>
+    <string name="pref_dream_text_default">zzzZZZzzz</string>
+    <string name="pref_dream_text_title">Ticker text</string>
+
+</resources>

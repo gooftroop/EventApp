@@ -1,0 +1,74 @@
+GATT Server Bluetooth (10)
+Bluetooth Client/Server (1)
+NFC (1)
+NFC Host-Card Emulation (9)
+LAN Finding (3)
+Chat (3)
+GMS Updates/Triggers (1)
+Internal DB (1)
+External DB (1)
+Event Displaying (2)
+Pause/Resume/Stop handling on Activities (2)
+State system in all handlers (3)
+
+http://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/
+
+
+Bluetooth Data Transfer - Service, Broadcast
+NFC Data Transfer - Broadcast, Just initialization
+Wifi Finding - Service, Broadcast
+Auto Database Update (GCM) - Service, Broadcast
+Manual Database Update - Async, onPost
+Friends List - Service, Broadcast
+Chat - Service, Broadcast (register each person to chat service)
+Subscription - Service, Broadcast
+Notifications - Service, Broadcast
+Location -
+Event Display - AnsycTask, onPost. Pass button navigates to Pass Screen
+
+Event Map - Activity
+ - Person Icon relocation
+ - Drag and Drop data to person
+ - Chat
+ - Friend/Group view
+ - Notification pop up
+ - Swipe navigation
+ - Event selection
+ - Map View
+ - Map Navigation
+
+Notification display - Activity
+ - Person Icon relocation
+ - Drag and Drop data to person
+ - Chat
+ - Friend/Group view
+ - Notifcation/Newsfeed display
+ - Swipe navigation
+
+Home (Profile) - Activity
+ - Person Icon relocation
+ - Drag and Drop data to person
+ - Chat
+ - Friend/Group view
+ - Notifcation/Newsfeed display
+ - Swipe navigation
+ - Profile Information
+ - Shows Friend and Group info/list
+
+Settings - Activity
+- Settings
+- Swipe to exit
+- App Notifications
+
+Pass - Activity, Host Card Emulator (NFC)
+ - Person Icon relocation
+ - Drag and Drop data to person
+ - Chat
+ - Friend/Group view
+ - Notifcation/Newsfeed display
+ - Swipe to exit
+ - Display Pass/Event info
+
+ Login - Activity
+  - Choose account
+  - Login
